@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.9.1">
   <diagram name="SAP_Start_L2" id="yzfCAtF7MlkF3A3rPHUN">
-    <mxGraphModel dx="3217" dy="2412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="1915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -139,9 +139,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KJaW32-MUoOeKXqnR98N-143" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;EVT_PROCESSO_CRIACAI&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#188918;strokeWidth=1.5;arcSize=16;fillColor=#F5FAE5;perimeterSpacing=0;absoluteArcSize=1;fontColor=#188918;fontSize=10;fontStyle=1" parent="KJaW32-MUoOeKXqnR98N-92" vertex="1">
-          <mxGeometry x="-8" y="127.69999999999999" width="138" height="15.79" as="geometry" />
-        </mxCell>
         <mxCell id="KJaW32-MUoOeKXqnR98N-115" value="&lt;h3 style=&quot;line-height: 0%;&quot;&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;S/4 Hana&lt;/font&gt;&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;fillColor=#EBF8FF;arcSize=24;absoluteArcSize=1;imageWidth=64;imageHeight=64;strokeWidth=1.5;container=0;align=left;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="120" y="-360" width="1017.04" height="670" as="geometry" />
         </mxCell>
@@ -159,6 +156,9 @@
         </mxCell>
         <mxCell id="KJaW32-MUoOeKXqnR98N-249" value="Armazena Pedido" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;strokeWidth=1.5;arcSize=16;fillColor=#EBF8FF;perimeterSpacing=0;absoluteArcSize=1;fontColor=#0070F2;fontSize=11;fontStyle=0" parent="KJaW32-MUoOeKXqnR98N-129" vertex="1">
           <mxGeometry x="484.0383024641522" y="33" width="88.98770670616751" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v26bhVPHTcixNMBVIvWB-2" value="&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;1. Determinação&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;strokeWidth=1.5;arcSize=16;fillColor=#ffcc99;perimeterSpacing=0;absoluteArcSize=1;fontSize=10;fontStyle=1" vertex="1" parent="KJaW32-MUoOeKXqnR98N-129">
+          <mxGeometry x="277.04" y="11.315970149253758" width="80" height="21.68179104477612" as="geometry" />
         </mxCell>
         <mxCell id="KJaW32-MUoOeKXqnR98N-133" value="Itens Pedido" style="strokeColor=#0070F2;shadow=0;strokeWidth=1.5;rounded=1;absoluteArcSize=1;arcSize=20;align=left;fontSize=16;fontStyle=1;spacingLeft=15;spacing=0;container=1;collapsible=0;fontColor=#1D2D3E;" parent="1" vertex="1">
           <mxGeometry x="142.95999999999998" y="-190" width="624.08" height="90" as="geometry" />
@@ -408,15 +408,6 @@
         <mxCell id="sbj0aUJG7C3nSxDusdI6-107" value="&lt;div style=&quot;font-size: 10px; line-height: 100%;&quot;&gt;&lt;span style=&quot;font-family: arial; font-size: 10px; background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Erro&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontColor=#1D2D3E;fontFamily=Helvetica;labelPosition=center;verticalLabelPosition=middle;" parent="1" vertex="1">
           <mxGeometry x="844.3099999999998" y="387.5" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="v26bhVPHTcixNMBVIvWB-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="v26bhVPHTcixNMBVIvWB-2" target="KJaW32-MUoOeKXqnR98N-149">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="v26bhVPHTcixNMBVIvWB-2" value="&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;1. Determinação&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;strokeWidth=1.5;arcSize=16;fillColor=#ffcc99;perimeterSpacing=0;absoluteArcSize=1;fontSize=10;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="350" y="-440.00402985074624" width="80" height="21.68179104477612" as="geometry" />
-        </mxCell>
-        <mxCell id="v26bhVPHTcixNMBVIvWB-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KJaW32-MUoOeKXqnR98N-108" target="v26bhVPHTcixNMBVIvWB-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="v26bhVPHTcixNMBVIvWB-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="v26bhVPHTcixNMBVIvWB-7" target="KJaW32-MUoOeKXqnR98N-133">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -467,6 +458,17 @@
         </mxCell>
         <mxCell id="v26bhVPHTcixNMBVIvWB-48" value="&lt;div style=&quot;font-size: 10px; line-height: 100%;&quot;&gt;&lt;span style=&quot;font-family: arial; font-size: 10px; background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;App&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontColor=#1D2D3E;fontFamily=Helvetica;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
           <mxGeometry x="957.87" y="414.61" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KJaW32-MUoOeKXqnR98N-143" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;EVT_PROCESSO_CRIACAI&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#188918;strokeWidth=1.5;arcSize=16;fillColor=#F5FAE5;perimeterSpacing=0;absoluteArcSize=1;fontColor=#188918;fontSize=10;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="250" y="-430" width="138" height="15.79" as="geometry" />
+        </mxCell>
+        <mxCell id="v26bhVPHTcixNMBVIvWB-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;strokeColor=#188918;strokeWidth=1.5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="KJaW32-MUoOeKXqnR98N-108" target="KJaW32-MUoOeKXqnR98N-143">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="-557" />
+              <mxPoint x="420" y="-418" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
