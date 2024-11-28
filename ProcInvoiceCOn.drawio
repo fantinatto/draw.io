@@ -158,7 +158,7 @@
           <mxGeometry x="484.0383024641522" y="33" width="88.98770670616751" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v26bhVPHTcixNMBVIvWB-2" value="&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;1. Determinação&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;strokeWidth=1.5;arcSize=16;fillColor=#ffcc99;perimeterSpacing=0;absoluteArcSize=1;fontSize=10;fontStyle=1" vertex="1" parent="KJaW32-MUoOeKXqnR98N-129">
-          <mxGeometry x="277.04" y="11.315970149253758" width="80" height="21.68179104477612" as="geometry" />
+          <mxGeometry x="2.9700000000000273" y="11.315970149253758" width="80" height="21.68179104477612" as="geometry" />
         </mxCell>
         <mxCell id="KJaW32-MUoOeKXqnR98N-133" value="Itens Pedido" style="strokeColor=#0070F2;shadow=0;strokeWidth=1.5;rounded=1;absoluteArcSize=1;arcSize=20;align=left;fontSize=16;fontStyle=1;spacingLeft=15;spacing=0;container=1;collapsible=0;fontColor=#1D2D3E;" parent="1" vertex="1">
           <mxGeometry x="142.95999999999998" y="-190" width="624.08" height="90" as="geometry" />
