@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.9.1">
   <diagram name="SAP_Start_L2" id="yzfCAtF7MlkF3A3rPHUN">
-    <mxGraphModel dx="3047" dy="2274" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2886" dy="2229" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -410,7 +410,7 @@
         <mxCell id="v26bhVPHTcixNMBVIvWB-7" value="IncoiceCon irá remover buffer para manter pedido atualizado entre as etapas de Determinação e Vinculação????" style="rounded=1;strokeWidth=1.5;arcSize=16;perimeterSpacing=0;absoluteArcSize=1;fontSize=10;fontStyle=1;fillColor=#ffff88;strokeColor=#36393d;align=center;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-200" y="-580" width="210" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="v26bhVPHTcixNMBVIvWB-17" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;ANTES_VALIDAR_ASSOCIACAO (Por Item?)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#188918;strokeWidth=1.5;arcSize=39;fillColor=#F5FAE5;perimeterSpacing=0;absoluteArcSize=1;fontColor=#188918;fontSize=10;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="v26bhVPHTcixNMBVIvWB-17" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;antes_atribuicao_automatica ??????&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#188918;strokeWidth=1.5;arcSize=39;fillColor=#F5FAE5;perimeterSpacing=0;absoluteArcSize=1;fontColor=#188918;fontSize=10;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="350" y="-437" width="230" height="15.79" as="geometry" />
         </mxCell>
         <mxCell id="v26bhVPHTcixNMBVIvWB-21" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;EVT_PROCESSO_EXCLUSAO&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#188918;strokeWidth=1.5;arcSize=16;fillColor=#F5FAE5;perimeterSpacing=0;absoluteArcSize=1;fontColor=#188918;fontSize=10;fontStyle=1" vertex="1" parent="1">
